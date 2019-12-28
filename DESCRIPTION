@@ -1,0 +1,15 @@
+Package: cpack
+Title: cpack
+Description: cpack 
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: methods, testthat
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+LazyData: yes
+biocViews: variants
+VignetteBuilder: knitr
+RoxygenNote: 7.0.2
+Encoding: UTF-8
